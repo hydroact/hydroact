@@ -1,0 +1,53 @@
+html, body {
+  font-family: "Arial";
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+background-color: #3C1A5B
+}
+h1 {
+  font-size: 48px;
+}
+
+p {
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+video {
+  background-color: #fff748;
+  border: 2px solid black;
+}
+
+.container {
+  display: flex;
+}
+
+.main {
+  color; #3C1A5B
+}
+
+.nav {
+  background-color: #fff748;
+  max-width: 25%;
+  min-width: 200px;
+  flex: 1;
+}
+
+.nav h1 {
+  padding-left: 20px;
+}
